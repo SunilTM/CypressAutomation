@@ -1,0 +1,4 @@
+{
+    "karateRunner.buildDirectory.cleanBeforeEachRun": false,
+    "karateRunner.editor.toggleResultsInGutter": false
+}
